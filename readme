@@ -1,0 +1,8 @@
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+export PATH=$JAVA_HOME/bin:$PATH
+
+mvn -DskipTests compile exec:java -Dexec.mainClass="rvo2example.LargeSpace01"
+
+mvn -DskipTests compile exec:java -Dexec.mainClass="rvo2example.TestCase08_setting2_TESTING"
+
+mvn -DskipTests compile exec:java -Dexec.mainClass="rvo2example.TestCase07_setting1_new2_TESTING"

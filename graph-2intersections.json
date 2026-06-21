@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "polyId": 0,
+    "vertex1": { "x": 100.0, "y": 300.0 },
+    "vertex2": { "x": 200.0, "y": 300.0 },
+    "distance": 100.0,
+    "isNode": true
+  },
+  {
+    "id": 1,
+    "polyId": 1,
+    "vertex1": { "x": 200.0, "y": 300.0 },
+    "vertex2": { "x": 200.0, "y": 400.0 },
+    "distance": 100.0,
+    "isNode": true
+  },
+  {
+    "id": 2,
+    "polyId": 2,
+    "vertex1": { "x": 200.0, "y": 400.0 },
+    "vertex2": { "x": 300.0, "y": 400.0 },
+    "distance": 100.0,
+    "isNode": true
+  },
+  {
+    "id": 3,
+    "polyId": 3,
+    "vertex1": { "x": 300.0, "y": 400.0 },
+    "vertex2": { "x": 300.0, "y": 300.0 },
+    "distance": 100.0,
+    "isNode": true
+  },
+  {
+    "id": 4,
+    "polyId": 4,
+    "vertex1": { "x": 300.0, "y": 300.0 },
+    "vertex2": { "x": 400.0, "y": 300.0 },
+    "distance": 100.0,
+    "isNode": true
+  }
+]
